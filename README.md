@@ -83,7 +83,9 @@ public class LC0000_ProblemName
 | #   | 题目 | 难度 | 分类 | 解法 |
 | --- | --- | --- | --- | --- |
 | 2 | [两数相加](https://leetcode.cn/problems/add-two-numbers/) | 中等 | 链表 | [C#](Solutions/LinkedList/LC0002_AddTwoNumbers.cs) |
-| 141 | [环形链表](https://leetcode.cn/problems/linked-list-cycle/) | 简单 | 链表 | [C#](Solutions/LinkedList/LC0002_HasCycle.cs) |
+| 141 | [环形链表](https://leetcode.cn/problems/linked-list-cycle/) | 简单 | 链表 | [C#](Solutions/LinkedList/LC0141_HasCycle.cs) |
+| 206 | [反转链表](https://leetcode.cn/problems/reverse-linked-list/) | 简单 | 链表 | [C#](Solutions/LinkedList/LC0206_ReverseList.cs) |
+| 876 | [链表的中间结点](https://leetcode.cn/problems/middle-of-the-linked-list/) | 简单 | 链表 | [C#](Solutions/LinkedList/LC0876_MiddleNode.cs) |
 
 ## 🔧 技术栈
 
