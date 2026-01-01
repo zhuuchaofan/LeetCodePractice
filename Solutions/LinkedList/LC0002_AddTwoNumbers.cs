@@ -9,7 +9,7 @@ using LeetCodePractice.DataStructures;
 /// 难度: 中等
 /// 标签: 链表, 数学, 递归
 /// </summary>
-public class LC0002_AddTwoNumbers
+public class Lc0002AddTwoNumbers
 {
     /// <summary>
     /// 解法：迭代法 + 哨兵节点
